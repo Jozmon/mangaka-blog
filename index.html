@@ -1,1 +1,77 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<header>
+<div class="logo">
+    <img src="logo.png" alt="Logo">
+</div>
+</header>
+<head>
+    <meta charset="UTF-8">
+    <title>Ysagiate Portfolio</title>
+</head>
+<head>
+    <meta charset="UTF-8">
+    <title>Ysagiate Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.slider').slick({
+                dots: true,
+                infinite: true,
+                speed: 500,
+                fade: true,
+                cssEase: 'linear'
+            });
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1>Ysagiate</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About</h2>
+            <p>Ysagiate bio.</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <div class="slider">
+                <div><img src="image1.jpg" alt="Image description"></div>
+                <div><img src="image2.jpg" alt="Image description"></div>
+                <div><img src="image3.jpg" alt="Image description"></div>
+                <div><img src="image4.jpg" alt="Image description"></div>
+                <div><img src="image5.jpg" alt="Image description"></div>
+                <div><img src="image6.jpg" alt="Image description"></div>
+                <div><img src="image7.jpg" alt="Image description"></div>
+                <div><img src="image8.jpg" alt="Image description"></div>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <div class="social-icons">
+                <ul>
+                    <li><i class="fab fa-facebook"></i><a href="https://www.facebook.com/">Facebook</a></li>
+                    <li><i class="fab fa-twitter"></i><a href="https://www.twitter.com/">Twitter</a></li>
+                    <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/">Instagram</a></li>
+                    <li><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/">Linkedin</a></li>
+                    <li><i class="fab fa-github"></i><a href="https://github.com/Jozmon/mangaka-blog">Github</a></li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright &copy; Ysagiate.
+    </footer>
+</body>
+</html>
