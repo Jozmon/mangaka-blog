@@ -86,7 +86,7 @@ Project Link: - [https://github.com/Jozmon/manga-blog][repo-link]
 ## Acknowledgments
 
 * [Giannis Kekes](micron00@mail.com)
-* [Inki](tzaferisleonidas@gmail.com)
+* [Leonidas](tzaferisleonidas@gmail.com)
 * [Theodosis Tsiavos](theotsiavos92@gmail.com)
 * [Alexandra](unknown@example.com)
 
