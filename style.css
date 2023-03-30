@@ -1,0 +1,51 @@
+.logo {
+/*display: inline;*/
+margin-left: 20px;
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav {
+font-size: xx-large;
+text-align: center;
+padding-left: 60px;
+
+}
+
+
+
+.top-menu-ul {
+list-style: none;
+display: flex;
+
+
+}
+
+.top-menu-li {
+display: inline
+
+}
+
+
+.logo, nav {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.social-media-ul {
+    display: inline;
+    
+    
+    }
+    
+    .social-media-li {
+    display: inline
+    
+    }
+
