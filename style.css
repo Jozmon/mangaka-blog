@@ -1,20 +1,53 @@
-.logo {
-/*display: inline;*/
-margin-left: 20px;
+.header-wrapper{
 
+justify-content: center;
+align-items: center;
+height: auto;
+max-width: 800px;
+margin: 0 auto;
 }
+
+.header-wrapper img {
+/*display: inline;*/
+float: left;
+max-width: 50%;
+max-height: 80;
+margin-top: 80px;
+padding-top: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
 
 header {
     display: flex;
+    justify-content: center;
     align-items: center;
-    padding: 10px 20px;
+    height: 100px;
+    padding: 15px 20px;
+    width: 100%;
 }
 
 nav {
+display: inline-block;   /*creates new block formatting context*/ 
 font-size: xx-large;
 text-align: center;
-padding-left: 60px;
-
+padding-right: 150px;
+vertical-align: middle;
+margin-top: 300px; /* add some margin to the top */
 }
 
 
@@ -22,12 +55,11 @@ padding-left: 60px;
 .top-menu-ul {
 list-style: none;
 display: flex;
-
-
 }
 
 .top-menu-li {
-display: inline
+    display: inline-block;
+
 
 }
 
@@ -49,3 +81,74 @@ display: inline
     
     }
 
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;  
+  padding-top: 200px;
+  margin-top: 200px;
+}
+
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto; 
+  margin-top: 200px; 
+}
+
+.slider img{
+  width: 800px;
+  height: auto;
+  margin: 10px;  
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .text-container {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+  }
+  
+  img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+  
+  }
+
+.comment-section {
+    margin-top: 400px; /* adjust the top margin as needed */
+  }
+  
+  .comment-section table {
+    float: left; /* float the table to the left */
+    margin-right: 120px; /* add some margin to the right of the table */
+    margin-top: 400px;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+#footer{
+    margin-top: 200px
+
+}
+
+
+  
