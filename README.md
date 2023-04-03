@@ -55,6 +55,14 @@
 <br>
 This is a blog template for a academic project based on a mangaka artist.
 
+** The idea behind this project was to build a personal blog as a mangaka artist.</br>
+  We named our mangaka Ysagiate and created a simple logo. </br>
+  We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,</br>
+  we thought to insert a Javascript function as a slider.
+  <a href="https://github.com/Jozmon/mangaka-blog">
+    <img src="images/javascript.png" alt="Logo" width="80" height="80">
+  </a>
+
 
 
 <br>
