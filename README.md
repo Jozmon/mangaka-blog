@@ -80,15 +80,22 @@ This is a blog template for a academic project based on a mangaka artist.
     <img src="images/java2.png" alt="java2" width="400" height="250">
   </a> </br>
   </br>
- On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.</br>
- On those 2 paragraphs the artist can tell viwers about his work and show them through images.</br>
+  On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.</br>
+  On those 2 paragraphs the artist can tell viwers about his work and show them through images.</br>
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/first.png" alt="first" width="400" height="50">
     </a> </br>
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/second.png" alt="second" width="400" height="50">
     </a> </br>
-  
+    </br>
+  Closing up the first page we added the social media reach buttons as shown bellow.</br>
+    <a href="https://github.com/Jozmon/mangaka-blog">
+      <img src="images/socialmedia.png" alt="socialmedia" width="400" height="250">
+    </a>
+    <a href="https://github.com/Jozmon/mangaka-blog">
+      <img src="images/socialmedia1.png" alt="socialmedia1" width="400" height="250">
+    </a></br>
 
 
 
