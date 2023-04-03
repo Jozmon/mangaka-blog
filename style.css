@@ -1,12 +1,15 @@
+
+header {
+background-color:black;
+}
+
+
 .header-wrapper{
-background-color: black;
 justify-content: center;
 align-items: center;
 height: auto;
 max-width: 800px;
 margin: 0 auto;
-position:relative;
-width: 100%;
 }
 
 
@@ -27,6 +30,10 @@ nav li:last-child {
     margin-right: 0;
 }
 
+h3 {
+
+	text-align: center;
+}
 
 header {
   display: flex;
@@ -55,10 +62,10 @@ a {
 }
 
 .header-wrapper img {
-  height: 150px;
-  width: 200px;
+  height: 180px;
+  width: 400px;
   margin-right: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 
@@ -98,29 +105,24 @@ a {
   margin: 10px;
 }
 .container {
+	background-color: dark;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    row-gap: 50px;
   }
-  
-.form-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
 
-  .text-container {
-	text-align: center;
+  .text-container p {
+	color: black;
     flex: 1;
     margin-right: 20px;
   }
 
   .image-container {
     display: flex;
-    flex: 1;
+    flex: 2;
     justify-content: space-between;
   }
 
