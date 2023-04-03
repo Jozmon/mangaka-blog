@@ -79,6 +79,8 @@ This is a blog template for a academic project based on a mangaka artist.
   <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/java2.png" alt="Logo" width="400" height="250">
   </a> </br>
+  </br>
+++ On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.   
   
   
 
