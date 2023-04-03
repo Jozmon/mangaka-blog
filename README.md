@@ -96,6 +96,21 @@ This is a blog template for a academic project based on a mangaka artist.
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/socialmedia.png" alt="socialmedia" width="300" height="100">
     </a></br>
+    </br>
+    In order to use the second page through the first one, we changed the .html on the menu to correspond</br>
+    to the according section, so the **Memu** would simply go to the menu, the **About** would move to my work and the **Contact**</br>
+    button would move to the 2nd page. The same thing occurs on the second page.</br>
+    This can be illustrated by the bellow screenshots:</br>
+    <a href="https://github.com/Jozmon/mangaka-blog">
+      <img src="images/menu1.png" alt="socialmediac" width="400" height="250">
+    </a>
+    <a href="https://github.com/Jozmon/mangaka-blog">
+      <img src="images/menu2.png" alt="socialmediac" width="400" height="250">
+    </a></br>
+    
+
+    
+   
 
 
 
