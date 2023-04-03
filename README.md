@@ -66,22 +66,28 @@ This is a blog template for a academic project based on a mangaka artist.
  We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,
  we thought to insert a Javascript function as a slider.</br>
   <a href="https://github.com/Jozmon/mangaka-blog">
-    <img src="images/javascript.png" alt="Logo" width="400" height="250">
+    <img src="images/javascript.png" alt="jv" width="400" height="250">
   </a> 
   <a href="https://github.com/Jozmon/mangaka-blog">
-    <img src="images/javaimg.png" alt="Logo" width="400" height="250">
+    <img src="images/javaimg.png" alt="jvimg" width="400" height="250">
   </a></br>
   </br>
   The above function gave us the results shown bellow from the screenshots</br>
   <a href="https://github.com/Jozmon/mangaka-blog">
-    <img src="images/java1.png" alt="Logo" width="400" height="250">
+    <img src="images/java1.png" alt="java1" width="400" height="250">
   </a>
   <a href="https://github.com/Jozmon/mangaka-blog">
-    <img src="images/java2.png" alt="Logo" width="400" height="250">
+    <img src="images/java2.png" alt="java2" width="400" height="250">
   </a> </br>
   </br>
-++ On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.   
-  
+ On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.</br>
+ On those 2 paragraphs the artist can tell viwers about his work and show them through images.</br>
+ <a href="https://github.com/Jozmon/mangaka-blog">
+    <img src="images/first.png" alt="first" width="400" height="250">
+  </a> </br>
+  <a href="https://github.com/Jozmon/mangaka-blog">
+    <img src="images/second.png" alt="second" width="400" height="250">
+  </a> </br>
   
 
 
