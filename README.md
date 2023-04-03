@@ -54,8 +54,13 @@
 <br>
 <br>
 This is a blog template for a academic project based on a mangaka artist.
+<br>
+<br>
+<br>
+<br>
+<br>
 
-** The idea behind this project was to build a personal blog as a mangaka artist.</br>
+ + The idea behind this project was to build a personal blog as a mangaka artist.</br>
   We named our mangaka Ysagiate and created a simple logo. </br>
   We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,
   we thought to insert a Javascript function as a slider.</br>
