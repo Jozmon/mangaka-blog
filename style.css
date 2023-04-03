@@ -1,10 +1,12 @@
 .header-wrapper{
-
+background-color: black;
 justify-content: center;
 align-items: center;
 height: auto;
 max-width: 800px;
 margin: 0 auto;
+position:relative;
+width: 100%;
 }
 
 
@@ -12,6 +14,8 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    font-size: 30px;
+    color: white;
 }
 
 nav li{
@@ -47,7 +51,7 @@ li {
 
 a {
   text-decoration: black;
-  color: #222121;
+  color:white;
 }
 
 .header-wrapper img {
@@ -60,20 +64,20 @@ a {
 
 .social-media-ul {
     display: inline;
-    
-    
+
+
     }
-    
+
     .social-media-li {
     display: inline
-    
+
     }
 
 .main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;  
+  height: 90vh;
   padding-top: 200px;
   margin-top: 200px;
 }
@@ -84,60 +88,67 @@ a {
   align-items: center;
   flex-wrap: wrap;
   max-width: 800px;
-  margin: 0 auto; 
-  margin-top: 200px; 
+  margin: 0 auto;
+  margin-top: 200px;
 }
 
 .slider img{
   width: 800px;
   height: auto;
-  margin: 10px;  
+  margin: 10px;
 }
 .container {
     display: flex;
+    flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin-bottom: 20px;
   }
   
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
   .text-container {
+	text-align: center;
     flex: 1;
     margin-right: 20px;
   }
-  
+
   .image-container {
     display: flex;
     flex: 1;
     justify-content: space-between;
   }
-  
+
   .container img {
+    text-align:center;
     width: 150px;
     height: auto;
     margin: 10px;
-  
+
   }
 
 .comment-section {
+    text-align: center;
     margin-top: 400px; /* adjust the top margin as needed */
   }
-  
+
   .comment-section table {
     float: left; /* float the table to the left */
     margin-right: 120px; /* add some margin to the right of the table */
     margin-top: 400px;
   }
-  
+
   body {
     margin: 0;
     padding: 0;
   }
 
 #footer{
-    margin-top: 200px
-
+    margin-top: 200px;
+    text-align: center;
 }
-
-
-
-  
