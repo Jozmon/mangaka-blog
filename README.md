@@ -91,10 +91,10 @@ This is a blog template for a academic project based on a mangaka artist.
     </br>
   Closing up the first page we added the social media reach buttons as shown bellow.</br>
     <a href="https://github.com/Jozmon/mangaka-blog">
-      <img src="images/socialmedia.png" alt="socialmedia" width="400" height="250">
+      <img src="images/socialmedia.png" alt="socialmedia" width="300" height="100">
     </a>
     <a href="https://github.com/Jozmon/mangaka-blog">
-      <img src="images/socialmedia1.png" alt="socialmedia1" width="400" height="250">
+      <img src="images/socialmediac.png" alt="socialmediac" width="400" height="250">
     </a></br>
 
 
