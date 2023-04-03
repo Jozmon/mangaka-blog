@@ -70,7 +70,7 @@ This is a blog template for a academic project based on a mangaka artist.
   The above function gave us the results shown bellow from the screenshots</br>
   <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/java1.png" alt="Logo" width="400" height="250">
-  </a> </br>
+  </a>
   <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/java2.png" alt="Logo" width="400" height="250">
   </a> </br>
