@@ -60,7 +60,7 @@ This is a blog template for a academic project based on a mangaka artist.
   We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,</br>
   we thought to insert a Javascript function as a slider.</br>
   <a href="https://github.com/Jozmon/mangaka-blog">
-    <img src="images/javascript.png" alt="Logo" width="200" height="200">
+    <img src="images/javascript.png" alt="Logo" width="400" height="200">
   </a>
 
 
