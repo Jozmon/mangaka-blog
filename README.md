@@ -34,13 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 <br>
 <br>
-<br>
-<br>
-<br>
-<p align = 'center'>This is an academic project made by our team as part of our course in Web Design .The aim of the project is to create a blog depicting the works of a manga artist , while at the same time being simple and clear, offering basic functionalities like a contact form and information about the artist's work
+<p align = 'left'>This is an academic project made by our team as part of our course in Web Design .The aim of the project is to create a blog depicting the works of a manga artist , while at the same time being simple and clear, offering basic functionalities like a contact form and information about the artist's work
 <br>
 <br>
 <br>
