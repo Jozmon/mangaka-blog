@@ -73,9 +73,7 @@
   </br>
   On the third section of the first page we wanted to add 2 paragraphs with few images next to each one for our mangaka.</br>
   On those 2 paragraphs the artist can tell viwers about his work and show them through images.</br>
-    <a href="https://github.com/Jozmon/mangaka-blog">
-      <img src="images/first.png" alt="first" width="400" height="50">
-    </a> </br>
+</br>
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/second.png" alt="second" width="618" height="388">
     </a> </br>
