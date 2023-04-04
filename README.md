@@ -45,7 +45,7 @@ The first page would include a Logo, main menu and social media, on the second o
 We named our mangaka Ysagiate and created a simple logo. </br>
 We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,
 we thought to insert a Javascript function as a slider.</br>
-<!-- PHOTOS -->
+
   <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/javascript.png" alt="jv" width="400" height="250">
   </a> 
