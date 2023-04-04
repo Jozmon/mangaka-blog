@@ -1,9 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/ysagiate-logo-new.png" alt="Logo" width="912" height="411">
-  </a>
+
 
   <h3 align="center">Mangaka Artist Blog</h3>
 
