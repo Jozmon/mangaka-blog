@@ -97,7 +97,11 @@
     </a>
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/menu2.png" alt="socialmediac" width="400" height="250">
-    </a></br><p/>
+    </a></br>
+     On the contact page we added a contact form so that a guest may send an email and add a comment as well
+    
+    
+    <p/>
     
 
     
