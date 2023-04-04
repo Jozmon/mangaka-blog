@@ -77,7 +77,7 @@
       <img src="images/first.png" alt="first" width="400" height="50">
     </a> </br>
     <a href="https://github.com/Jozmon/mangaka-blog">
-      <img src="images/second.png" alt="second" width="300" height="400">
+      <img src="images/second.png" alt="second" width="388" height="618">
     </a> </br>
     </br>
   Closing up the first page we added the social media reach buttons as shown bellow.</br>
