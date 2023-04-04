@@ -96,7 +96,7 @@
      <img src="images/Contact Style.png" alt="contactst" width="400" height="250">
     
     
-    <p/>
+
     
 
     
