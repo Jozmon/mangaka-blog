@@ -100,6 +100,7 @@
     </a></br>
      On the contact page we added a contact form so that a guest may send an email and add a comment as well:<br>
      <img src="images/Contact Code.png" alt="contactc" width="400" height="250">
+     <img src="images/Contact Style.png" alt="contactst" width="400" height="250">
     
     
     <p/>
