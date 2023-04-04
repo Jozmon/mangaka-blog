@@ -82,7 +82,7 @@
     </a></br>
     </br>
     In order to use the second page through the first one, we changed the .html on the menu to correspond</br>
-    to the according section, so the **Memu** would simply go to the menu, the **About** would move to my work and the **Contact**</br>
+    to the according section, so the **Menu** would simply go to the menu, the **About** would move to my work and the **Contact**</br>
     button would move to the 2nd page. The same thing occurs on the second page.</br>
     This can be illustrated by the bellow screenshots:</br>
     <a href="https://github.com/Jozmon/mangaka-blog">
