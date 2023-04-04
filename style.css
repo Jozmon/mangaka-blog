@@ -20,6 +20,13 @@ justify-content: center;
 flex-direction: column;
 }
 
+.contact-section img {
+
+    border: 5px solid #555;
+    border-radius: 50%;
+    border-color: black;
+   }
+
 
 nav ul {
     list-style: none;
