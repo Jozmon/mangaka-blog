@@ -11,10 +11,6 @@
     A blog website designed specificly for an artist 
     <br>
     this website is designed so a mangaka can show his or her work to world.
-    
-    <br />
-    <br />
-
   </p>
 </div>
 
