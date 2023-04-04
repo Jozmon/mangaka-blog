@@ -40,11 +40,11 @@
 <br>
 <br>
 
-+ The idea behind this project was to build a personal blog as a mangaka artist.</br>
- The first page would include a Logo, main menu and social media, on the second one it would have a contact section form.
- We named our mangaka Ysagiate and created a simple logo. </br>
- We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,
- we thought to insert a Javascript function as a slider.</br>
+The idea behind this project was to build a personal blog as a mangaka artist.</br>
+The first page would include a Logo, main menu and social media, on the second one it would have a contact section form.
+We named our mangaka Ysagiate and created a simple logo. </br>
+We wanted to add some photos as a presentation of our mangaka work.In order of not consuming a large space of our web page with the photos,
+we thought to insert a Javascript function as a slider.</br>
   <a href="https://github.com/Jozmon/mangaka-blog">
     <img src="images/javascript.png" alt="jv" width="400" height="250">
   </a> 
