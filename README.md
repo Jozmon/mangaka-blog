@@ -25,15 +25,7 @@
 ## Table of Contents
 
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#Naming">Naming</a>
-    </li>
-    <li>
-      <a href="#Table Representation">Table Representation</a>
-    </li>
+  <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -53,8 +45,7 @@
 <br>
 <br>
 <br>
-This is a blog template for a academic project based on a mangaka artist.
-<br>
+<p align = 'left'>This is an academic project made by our team as part of our course in Web Design .The aim of the project is to create a blog depicting the works of a manga artist , while at the same time being simple and clear, offering basic functionalities like a contact form and information about the artist's work
 <br>
 <br>
 <br>
@@ -106,7 +97,7 @@ This is a blog template for a academic project based on a mangaka artist.
     </a>
     <a href="https://github.com/Jozmon/mangaka-blog">
       <img src="images/menu2.png" alt="socialmediac" width="400" height="250">
-    </a></br>
+    </a></br><p/>
     
 
     
